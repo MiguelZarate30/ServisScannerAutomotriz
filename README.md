@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Servis Escáner Automotriz
 
 Sitio web oficial de **Servis Escáner Automotriz**, empresa local en Arica dedicada al diagnóstico rápido y confiable de vehículos.  
@@ -17,3 +18,6 @@ Creado y desarrollado por **Miguel Zárate**, Ingeniero Informático, con enfoqu
 **Miguel Zárate**  
 - Ingeniero Informático
 - desarrollador del sitio web de Servis Escáner Automotriz  
+=======
+# ServisScannerAutomotriz
+>>>>>>> e13f7966a75a50578250240c460a118641ba0804

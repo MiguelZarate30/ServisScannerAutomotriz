@@ -5,18 +5,6 @@ Creado y desarrollado por **Miguel Zárate**, Ingeniero Informático, con enfoqu
 
 ---
 
-## 🌟 Servicios principales
-- 🔧 **Scanner automotriz** → detección inmediata de fallas electrónicas y mecánicas.  
-- 🔋 **Carga de batería 12V** → asistencia rápida en carga de batería 12v para mantener tu vehículo operativo.  
-- 🌫️ **Regeneración de filtros DPF** → prolonga la vida útil del motor y mejora su eficiencia.  
-
----
-
-## 📸 Galería
-En el sitio web se muestran ejemplos de trabajos realizados, reflejando la calidad y compromiso de nuestro servicio.
-
----
-
 ## ⚙️ Tecnologías utilizadas
 - **HTML5**  
 - **CSS3 (responsivo y moderno)**  
@@ -29,8 +17,3 @@ En el sitio web se muestran ejemplos de trabajos realizados, reflejando la calid
 **Miguel Zárate**  
 - Ingeniero Informático
 - desarrollador del sitio web de Servis Escáner Automotriz  
-
----
-
-## 📝 Licencia
-© 2025 Servis Escáner Automotriz • Todos los derechos reservados

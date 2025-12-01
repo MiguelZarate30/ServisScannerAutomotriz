@@ -17,13 +17,6 @@ En el sitio web se muestran ejemplos de trabajos realizados, reflejando la calid
 
 ---
 
-## 📍 Contacto
-- 📞 WhatsApp: [+56 9 4081 7922](https://wa.me/56940817922)  
-- 📘 Facebook: [facebook.com/servis.escaner](https://facebook.com/servis.escaner)  
-- 📍 Ubicación: Arica, Región de Arica y Parinacota  
-
----
-
 ## ⚙️ Tecnologías utilizadas
 - **HTML5**  
 - **CSS3 (responsivo y moderno)**  
